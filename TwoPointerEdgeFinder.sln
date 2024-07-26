@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoPointerEdgeFinder", "TwoPointerEdgeFinder\TwoPointerEdgeFinder.csproj", "{CAF72B28-E2ED-4B97-AFB6-A3F7F1E16899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoPointerEdgeFinder.Tests", "TwoPointerEdgeFinder.Test\TwoPointerEdgeFinder.Tests.csproj", "{E274D0C5-C09B-4D99-A67C-922DF58FB10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF72B28-E2ED-4B97-AFB6-A3F7F1E16899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF72B28-E2ED-4B97-AFB6-A3F7F1E16899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF72B28-E2ED-4B97-AFB6-A3F7F1E16899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF72B28-E2ED-4B97-AFB6-A3F7F1E16899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E274D0C5-C09B-4D99-A67C-922DF58FB10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E274D0C5-C09B-4D99-A67C-922DF58FB10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E274D0C5-C09B-4D99-A67C-922DF58FB10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E274D0C5-C09B-4D99-A67C-922DF58FB10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311A6615-FC5C-470E-83D2-7615695799D0}
+	EndGlobalSection
+EndGlobal
